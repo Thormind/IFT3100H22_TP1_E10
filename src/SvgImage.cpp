@@ -1,0 +1,1 @@
+#include "SvgImage.h"
